@@ -1,5 +1,4 @@
-# Deep_Learning_Projects
-Predicting COVID Patients from Chest X-Rays  
+# Predicting COVID Patients from Chest X-Rays  
 ### Problem Statement  
 This project aims to reliably identify COVID-19 through chest X-Ray images using transfer learning and even transformers to boost efficiency in COVID-19 management, especially before the potential outbreak of OMICRON variant  
 **Keywords**: COVID-19 Management, Transfer Learning , VGG19 , Model FineTuning  
